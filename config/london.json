@@ -1,0 +1,13 @@
+{
+    "city": "London",
+
+    "files": {
+        "listings_summary": "URL_1",
+        "listings_detailed": "URL_2",
+        "calendar": "URL_3",
+        "reviews_summary": "URL_4",
+        "reviews_detailed": "URL_5",
+        "neighbourhoods": "URL_6",
+        "neighbourhoods_geojson": "URL_7"
+    }
+}
