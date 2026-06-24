@@ -1,3 +1,6 @@
+# **Important** - Large CSV files are not in this repo
+
+
 # London Airbnb Market Analysis
 
 An end-to-end data engineering and analytics pipeline built on London Airbnb data from [Inside Airbnb](http://insideairbnb.com/). Covers data ingestion, profiling, cleaning, enrichment, dimensional modelling, exploratory data analysis, statistical testing, and machine learning price prediction.
